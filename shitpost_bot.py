@@ -3,13 +3,13 @@ import random
 import time
 import linecache
 
-consumer_key = "SDjh70TQSJCy84hzYUtlG1Rse"
+consumer_key = <Put your Consumer Key Here>
 
-consumer_secret = "XW6ZXidtjRu3DcFA9L1ViLWSlOz3UUmctQy64ujD9UKkhred78"
+consumer_secret = <Put your Consumer Secret Here>
 
-access_key = "836955760177393665-CcrxT5uqFoaH81CS3kCBRAHdEE86W8P"
+access_key = <Put your Access Key Here>
 
-access_secret = "MvaKv7eF2xTy5HFmkQDT2fvd8rGTuimbWmwerK0M2uYPH"
+access_secret = <Put you Access Secret Here>
 
 blanks_list = 'blanks.txt'
 
