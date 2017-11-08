@@ -58,7 +58,7 @@ def tweetContent():
 
 
 def post(text):
-	if len(text) > 140:
+	if len(text) > 280:
 		return 1
 	else:
 		status = api.PostUpdate(text)
