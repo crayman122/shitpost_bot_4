@@ -147,7 +147,7 @@ while True:
 	# wait for the hour.
 	if int(time.strftime("%M", time.gmtime())) == 0:
 		tweet = generate()
-		print tweet
+		print(tweet)
 		post(tweet) #Post the tweet.
 		time.sleep(60000) #Used to prevent the program from using 100% CPU and bricking an entire server.
 	
